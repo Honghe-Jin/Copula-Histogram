@@ -12,7 +12,7 @@ source('Copula_functions.R')
 
 ####Test Copulas####
 ##Gaussian
-n = 150
+n = 30
 list_hist = list()
 rho0 = .1
 for(i in 1:n){ #generate histograms
