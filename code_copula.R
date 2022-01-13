@@ -8,7 +8,7 @@ library(mvQuad)
 library(gplots)
 library(copula)
 #Source functions
-source('~/Documents/researches/Symbolic_new/Rcode/Copula_functions.R')
+source('Copula_functions.R')
 
 ####Test Copulas####
 ##Gaussian
